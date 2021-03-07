@@ -257,5 +257,5 @@ echo '<div id="log" class="scroll"></div></pre></div>';
 }
 ?>
 </td></tr>
-</table></head><center><h7><b>Current versi GUI 2.0 Copyright &copy</b></h7></center>
+</table></head><center><h7><b>Current versi GUI 2.0 Copyright &copy r3</b></h7></center>
 </html>
